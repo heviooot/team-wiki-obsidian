@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "f341e4d0e8a449fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0d03dcfc621693",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Calendar/2022-07-08 Meeting 9.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c546df14d9bf140d",
+    "type": "split",
+    "children": [
+      {
+        "id": "965eff3ae6a620e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24c1ad2d6938736d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ea1d3da9ae46461",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ya",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "d126ce59979ed503",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9b164838ba4b4e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89052318e410d59c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Calendar/2022-07-08 Meeting 9.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4e5e7bbb2404162d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5,
+    "collapsed": true
+  },
+  "active": "8c0d03dcfc621693",
+  "lastOpenFiles": [
+    "Calendar/2022-07-08 Meeting 9.md",
+    "Home.md",
+    "2022-07-08.md",
+    "2022-07-06.md",
+    "Temp/Test.md",
+    "Temp/Qalpaeb.md",
+    "Test.md",
+    "Pages/Temp/Work.md",
+    "Pages/Temp/Qalpaeb - TODO change name.md",
+    "Pages/Notes/Notes.md"
+  ]
+}
